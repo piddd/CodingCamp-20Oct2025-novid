@@ -1,14 +1,11 @@
 # CodingCamp-20Oct2025-novid
-# Portfolio - Muhammad Novid Romadhoni
 
 This repository contains a single-page portfolio built with Tailwind CSS (CDN) and a small custom JS file.
 
 
 Files:
-- `index.html` — the full website (hero, about, skills, projects, contact)
-- `css/style.css` — minimal custom CSS
-- `js/script.js` — theme toggle, mobile nav, form validation
-
+- `index.html` — the full website (home, about, skills, portofolio, contact)
+- `js/script.js` — welcome speech, form validation, and ouput form
 
 ## How to use
 1. Clone repo
