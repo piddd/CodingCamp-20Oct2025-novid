@@ -1,4 +1,4 @@
-///welcomeSpeech();
+welcomeSpeech();
 
 function welcomeSpeech() {
     /// Show prompt to ask for user's name
